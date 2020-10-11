@@ -45,3 +45,8 @@ cd ..
 
 5. The 'model.py' file contains the Encoder-Decoder Neural Network Architecture.
 
+# Results
+----------
+![image](https://github.com/sathviksunny/Image-Captioning/blob/main/images/Result-1.png)
+![image](https://github.com/sathviksunny/Image-Captioning/blob/main/images/Result-2.png)
+
