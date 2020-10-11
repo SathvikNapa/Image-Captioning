@@ -5,8 +5,8 @@
  
  This repository contains a Deep Neural Network that automatically generates captions from Images. <br/>
  
- # Summary:
- -----------------
+ # Summary
+ ---------
 - Uses Microsoft's COCO dataset.
 - Implemented an Encoder, a CNN, Resnet Architecture, which is used to generate feature embedding vectors for the training images.
 - Word embeddings are generated from captions for training images. NLTK was used for working with processing of captions.
