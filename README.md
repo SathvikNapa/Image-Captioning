@@ -1,7 +1,16 @@
 # Image-Captioning using Pytorch
  ------------------------------
+ [![Udacity Computer Vision Nanodegree](http://tugan0329.bitbucket.io/imgs/github/cvnd.svg)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)<br/>
  
- This repository contains a Deep Neural Network that automatically generates captions from Images.
+ 
+ This repository contains a Deep Neural Network that automatically generates captions from Images. <br/>
+ 
+ # Summary:
+ -----------------
+- Uses Microsoft's COCO dataset.
+- Implemented an Encoder, a CNN, Resnet Architecture, which is used to generate feature embedding vectors for the training images.
+- Word embeddings are generated from captions for training images. NLTK was used for working with processing of captions.
+- Implemented a Decoder, Sequential Neural Network - RNN decoder using LSTM cells, that converts the embedding vectors as a sequence of tokens.
  
 # Network Architecure
  --------------------
